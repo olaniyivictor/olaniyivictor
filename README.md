@@ -9,5 +9,10 @@
 <hr>
 
 🧰 Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript Logo" width="50" height="50">
+---
+
+---
+
 
 ---
