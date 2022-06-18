@@ -18,7 +18,7 @@
 
 
 ## &#x1f4c8; My GitHub Stats
-![Olaniyi Victor github stats](https://github-readme-stats.vercel.app/api?username=olaniyivictor)]
+![Olaniyi Victor github stats](https://github-readme-stats.vercel.app/api?username=olaniyivictor)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaniyivictor&layout=compact)
 
