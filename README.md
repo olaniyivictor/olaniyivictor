@@ -2,4 +2,4 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/boma_machala?label=People%20following%20me%20on%20twitter&style=social)
 <h2>FullStack Website Developer and MachineLearning Enthusiast</h2>
-<h2>I am a Web Developer Passionate about Making Websites. I Study Electronics and Electrical Engineering  at Obafemi Awolowo University. I build Website with the HTMl,CSS,JAVASCRIPT PHP and MYSQL  Programming language.Feel Free to reach out!I am always available to talk  about the latest Changes in tech and g
+<h2>I am a Web Developer Passionate about Making Websites. I Study Electronics and Electrical Engineering  at Obafemi Awolowo University. I build Website with the HTMl,CSS,JAVASCRIPT PHP and MYSQL  Programming language.Feel Free to reach out!I am always available to talk  about the latest Changes in tech and great ideas.I am currently a member of Institute of Electrical and Electronics Engineers,OAU Student Branch(IEE OAUSB) and Google Developer Student Clubs (GDSC).
