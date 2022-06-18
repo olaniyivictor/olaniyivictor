@@ -15,13 +15,13 @@
 <hr>
 <h1>Social<h1>
 <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50px" height="50px"><img src="https://cdn.worldvectorlogo.com/logos/gdg-google-developer-group-logo.svg" widdth="50px" height="50px">
----
+
 
 ## &#x1f4c8; My GitHub Stats
+![Olaniyi Victor github stats](https://github-readme-stats.vercel.app/api?username=olaniyivictor)]
 
-[![Olaniyi Victor’s github stats](https://github-readme-stats.vercel.app/api?username=olaniyivictor)](https://github.com/olaniyivictor)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaniyivictor&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaniyivictor&layout=compact)](https://github.com/olaniyivictor)
 
 
 
