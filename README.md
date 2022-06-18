@@ -5,15 +5,15 @@
 <h2>I am a Web Developer Passionate about Making Websites. I Study Electronics and Electrical Engineering  at Obafemi Awolowo University. I build Website with the HTMl,CSS,JAVASCRIPT PHP and MYSQL  Programming language.Feel Free to reach out!I am always available to talk  about the latest Changes in tech and great ideas.I am currently a member of Institute of Electrical and Electronics Engineers,OAU Student Branch(IEE OAUSB) and Google Developer Student Clubs (GDSC).</h2>
 <img src="https://th.bing.com/th/id/R.c8ee673d7d38c03c5b256b95e456d376?rik=a0thrJfNliIfvA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpng-location--872.png&ehk=fCi%2buG47jqzDPBRENzRddgWpFdrVqzykvAN4EN4FQz8%3d&risl=&pid=ImgRaw&r=0" width="20px"> I'm based in Ondo,Ondo State,Nigeria.
 <img src="https://th.bing.com/th/id/OIP.s95nTjHUgAr4CNAoKEQxewHaDe?pid=ImgDet&rs=1" width="20px">You can contact me at victorolaniyi22@gmail.com
----
+
 <hr>
 
-🧰 Toolbox
+<h1>🧰 Toolbox</h1>
 <br>
 <br>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript Logo" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" width="50" height="50">
-<br
----<h1>Social</h1>
+<hr>
+<h1>Social</h1>
 
 ---
 
