@@ -18,9 +18,11 @@
 
 
 ## &#x1f4c8; My GitHub Stats
-![Olaniyi Victor github stats](https://github-readme-stats.vercel.app/api?username=olaniyivictor)
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Olaniyi Victor&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaniyi Victor&langs_count=5&theme=tokyonight)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaniyivictor&layout=compact)
+
 
 
 
