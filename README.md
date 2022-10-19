@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/victor-olaniyi-72a731234">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://api.whatsapp.com/send?phone=2347036379814">
     <img src="https://img.shields.io/badge/ Whatsapp-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/boma_machala?t=bKOzrrxVYBZG9-AzB7loWQ&s=09">
