@@ -11,8 +11,8 @@
   <a href="https://twitter.com/boma_machala?t=bKOzrrxVYBZG9-AzB7loWQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ![Twitter Follow](https://img.shields.io/twitter/follow/boma_machala?label=People%20following%20me%20on%20twitter&style=social)
 </div>
+![Twitter Follow](https://img.shields.io/twitter/follow/boma_machala?label=People%20following%20me%20on%20twitter&style=social)
 
 
 
