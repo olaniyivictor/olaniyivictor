@@ -5,13 +5,14 @@
   <a href="https://www.linkedin.com/in/victor-olaniyi-72a731234">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=2347036379814">
+  <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/ Whatsapp-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/boma_machala?t=bKOzrrxVYBZG9-AzB7loWQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/olaniyivictor/olaniyivictor&style=flat-square&color=blue" alt=""/>
 
 
 
