@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-![Twitter Follow](https://img.shields.io/twitter/follow/boma_machala?label=People%20following%20me%20on%20twitter&style=social)
+(https://img.shields.io/twitter/follow/boma_machala?label=People%20following%20me%20on%20twitter&style=social)
 
 
 
